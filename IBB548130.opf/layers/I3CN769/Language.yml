@@ -1,0 +1,94 @@
+id: 26cf2c479deb435bb7715f4a65a50197
+annotation_type: Language
+revision: '00001'
+annotations:
+  0c184a64db4f4fc9bae18b6eb4b5c081:
+    span:
+      start: 39
+      end: 161
+    language: en
+  ca03811b1097459388b0b8e72cbf2abc:
+    span:
+      start: 250
+      end: 658
+    language: en
+  e4ad5b215088455ebc2544e11b350133:
+    span:
+      start: 65776
+      end: 65801
+    language: sa-Deva
+  61ec8c61d9424fa39917cfa764b54438:
+    span:
+      start: 135260
+      end: 135287
+    language: sa-Deva
+  5bde132860bb40929823371944455df6:
+    span:
+      start: 159198
+      end: 159223
+    language: en
+  4828ea2267204123bef37507b49b7322:
+    span:
+      start: 159419
+      end: 159446
+    language: sa-Deva
+  1959d66666654704960c7c91f0ea0a2a:
+    span:
+      start: 279362
+      end: 279429
+    language: sa-Deva
+  c921199a44e34f929af368ca74c720ac:
+    span:
+      start: 285600
+      end: 285646
+    language: sa-Deva
+  fa13a85bd20c457787988f479c90e80e:
+    span:
+      start: 289168
+      end: 289232
+    language: sa-Deva
+  d0cfe9674eb44fa68073a3fc10d55a3e:
+    span:
+      start: 565835
+      end: 565862
+    language: sa-Deva
+  3da43690fee143a39bd88536ad23f4a2:
+    span:
+      start: 572685
+      end: 572732
+    language: sa-Deva
+  077c0f10cae442929c3356c9314916c3:
+    span:
+      start: 579028
+      end: 579062
+    language: sa-Deva
+  5a198518a15f43a385ceb8e46e9b1de2:
+    span:
+      start: 582586
+      end: 582677
+    language: sa-Deva
+  f48969f0e9b7463db3fd0009f1d5182e:
+    span:
+      start: 658586
+      end: 658712
+    language: sa-Deva
+  c975bf79ad0c49839f753c9c670841bc:
+    span:
+      start: 666969
+      end: 667039
+    language: sa-Deva
+  68f41021721643c5bc84133731057a71:
+    span:
+      start: 667101
+      end: 667257
+    language: sa-Deva
+  b99d3ea4d89e47739f5cea6149e67a9e:
+    span:
+      start: 701934
+      end: 701968
+    language: en
+  fcdd5db35e0248a494d84f954da0b08f:
+    span:
+      start: 767713
+      end: 767740
+    language: sa-Deva
